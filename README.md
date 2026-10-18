@@ -1,4 +1,4 @@
-# Hi, I'm Sampath 👋
+# Hi, I'm Sampath!
 
 I'm a second-year Computer Science student at UCLA building across full-stack development, machine learning, and data visualization. I like turning complex data into tools people can explore and use.
 
