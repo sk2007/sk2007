@@ -11,17 +11,6 @@ I'm a second-year Computer Science student at UCLA building across full-stack de
 - **Medical imaging research** — Developing tools for DICOM data, tumor volumetrics, and radiomics.
 - **Teaching** — Helping students learn programming as a UCLA CS 31 Learning Assistant.
 
-## Selected projects
-
-### [NBA What If](https://nba-what-if.vercel.app)
-A basketball analytics project combining NBA play-by-play data, machine learning, and an interactive web experience to explore basketball scenarios.
-
-### Medical Imaging & Volumetrics
-A Python pipeline that pairs CT scans with radiation therapy structures to calculate target volume, shape, intensity, and radiomic features.
-
-### BSA Application Review Platform
-A centralized platform for reviewing club applications, assigning reviewers, organizing feedback, and comparing applicants.
-
 ## Tools I work with
 
 **Languages:** Python, Java, C++, JavaScript, TypeScript, SQL  
