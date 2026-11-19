@@ -19,7 +19,7 @@ I'm a second-year Computer Science student at UCLA building across full-stack de
 
 ## GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sk2007)](https://git.io/streak-stats)
 
 ---
 
