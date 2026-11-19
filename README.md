@@ -17,6 +17,10 @@ I'm a second-year Computer Science student at UCLA building across full-stack de
 **Web:** React, Node.js, Supabase  
 **Interests:** Machine learning, data visualization, sports analytics, and healthcare technology
 
+## GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)](https://git.io/streak-stats)
+
 ---
 
 Always happy to talk about an interesting project, basketball, or something you're building.
